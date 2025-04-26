@@ -1,40 +1,40 @@
 package com.example.kotlindersleri
 
 fun main() {
-    var sehir = "Tokyo"
+    val sehir = "Tokyo"
     println("Sehir : $sehir")
 
-    var ulke = "Japan"
+    val ulke = "Japan"
     println("Ulke : $ulke")
 
-    var telefon = "XXX XXX XX XX"
+    val telefon = "XXX XXX XX XX"
     println("Telefon : $telefon")
 
-    var postaKodu = "111"
+    val postaKodu = "111"
     println("Posta Kodu : $postaKodu")
 
-    var email = "forexample@gmail.com"
+    val email = "forexample@gmail.com"
     println("Email : $email")
 
-    var meslek = "***"
+    val meslek = "***"
     println("Meslek : $meslek")
 
-    var stokMiktari = "bilinmiyor!"
+    val stokMiktari = "bilinmiyor!"
     println("Stok Miktari : $stokMiktari")
 
-    var musteriAdi = "AAAAA"
+    val musteriAdi = "AAAAA"
     println("Musteri Adi : $musteriAdi")
 
-    var bakiye = "1000"
+    val bakiye = "1000"
     println("Bakiye : $bakiye")
 
-    var dogumGunu = "01.01"
+    val dogumGunu = "01.01"
     println("Dogum Gunu : $dogumGunu")
 
-    var maas = "400.000"
+    val maas = "400.000"
     println("Maas : $maas")
 
-    var medeniDurum = "bekar"
+    val medeniDurum = "bekar"
     println("Medeni Durum : $medeniDurum")
 
     var urunYorum = "Perfect!"

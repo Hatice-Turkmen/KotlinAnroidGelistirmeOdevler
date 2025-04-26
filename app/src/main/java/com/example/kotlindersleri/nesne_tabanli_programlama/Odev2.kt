@@ -56,7 +56,7 @@ class Odev2 {
             println("ucret =100")
         } else{
             val asim = kota-50
-            ucret = 100 + (asim * 4)
+            (100 + (asim * 4)).also { ucret = it }
             println("ucret = $ucret")
         }
         return ucret
